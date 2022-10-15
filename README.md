@@ -29,4 +29,4 @@ P(h) is the probability of hypothesis h being true (regardless of the data). Thi
 P(d) is the probability of the data (regardless of the hypothesis).
 ## Result
 
-Our Accuracy is:  0.7619047619047619
+Accuracy is:  0.7619047619047619
